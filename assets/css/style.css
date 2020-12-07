@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body {
     /*more on this crazy alphanumberical value in a minute! */
@@ -55,4 +56,7 @@ footer div {
 }
 footer a {
     color: #024e76;
+}
+section {
+    padding: 60px;
 }
